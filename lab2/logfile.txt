@@ -1,0 +1,530 @@
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks MEDIUM task_b semtake task_b 167
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 MEDIUM Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 MEDIUM Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks MEDIUM task_a semgive task_a 151
+0x2454778 (task_b): 
+Two Tasks HIGH task_b semtake task_b 167
+0x24541b0 (task1): 
+Fibbonacci1 HIGH Calculated fibbonacci for task 2 task1 204
+0x2454520 (task2): 
+Fibbonacci2 HIGH Calculated fibbonacci for task 1 task2 221
+0x17070354 (task_a): 
+Two Tasks HIGH task_a semgive task_a 151
